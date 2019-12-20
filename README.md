@@ -14,7 +14,7 @@
 
 #后端部署流程
 
-1、直接把loginServer项目根目录下main文件（注意没有后缀名、不是main.go就是main文件）直接放到linux服务器上
+1、直接把loginServer项目根目录下main文件（这是我已经打包好的可执行文件，注意没有后缀名、不是main.go就是main文件）直接放到linux服务器上
 
 2、执行chmod 777 main
 
